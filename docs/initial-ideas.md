@@ -1532,7 +1532,7 @@ I've created a comprehensive staff management interface with the following featu
 
 
 
-I want to use tailwind css for the styling. 
+I want to use tailwind css for the styling. Postgresql for the database.
 
 
 Also I would like:
